@@ -1,0 +1,12 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+libdir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/lib
+includedir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/include
+
+Name: libmpg123
+Description: An optimised MPEG Audio decoder
+Requires: 
+Version: 1.32.4
+Libs: -L${libdir} -lmpg123 
+Libs.private: 
+Cflags: -I${includedir} 

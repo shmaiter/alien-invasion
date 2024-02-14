@@ -1,0 +1,12 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+libdir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/lib
+includedir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/include
+
+Name: libsyn123
+Description: A signal synthesis library accompanying mpg123
+Requires: 
+Version: 1.32.4
+Libs: -L${libdir} -lsyn123 
+Libs.private: 
+Cflags: -I${includedir} 

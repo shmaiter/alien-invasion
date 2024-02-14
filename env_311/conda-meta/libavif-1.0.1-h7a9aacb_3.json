@@ -1,0 +1,99 @@
+{
+  "build": "h7a9aacb_3",
+  "build_number": 3,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "aom >=3.7.0,<3.8.0a0",
+    "dav1d >=1.2.1,<1.2.2.0a0",
+    "rav1e >=0.6.6,<1.0a0",
+    "svt-av1 >=1.7.0,<1.7.1.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\shmai\\anaconda3\\pkgs\\libavif-1.0.1-h7a9aacb_3",
+  "files": [
+    "Library/bin/avif.dll",
+    "Library/include/avif/avif.h",
+    "Library/lib/avif.lib",
+    "Library/lib/cmake/libavif/libavif-config-release.cmake",
+    "Library/lib/cmake/libavif/libavif-config-version.cmake",
+    "Library/lib/cmake/libavif/libavif-config.cmake",
+    "Library/lib/pkgconfig/libavif.pc",
+    ".nonadmin"
+  ],
+  "fn": "libavif-1.0.1-h7a9aacb_3.conda",
+  "license": "BSD-2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\shmai\\anaconda3\\pkgs\\libavif-1.0.1-h7a9aacb_3",
+    "type": 1
+  },
+  "md5": "105425ab3c95efc316bb3277bbc4a75f",
+  "name": "libavif",
+  "package_tarball_full_path": "C:\\Users\\shmai\\anaconda3\\pkgs\\libavif-1.0.1-h7a9aacb_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/avif.dll",
+        "path_type": "hardlink",
+        "sha256": "0dc429e29ce18fc09e8a4fbf1c84c8d4b6f2cf6393f21b3df7a70ce527852a4a",
+        "sha256_in_prefix": "0dc429e29ce18fc09e8a4fbf1c84c8d4b6f2cf6393f21b3df7a70ce527852a4a",
+        "size_in_bytes": 143872
+      },
+      {
+        "_path": "Library/include/avif/avif.h",
+        "path_type": "hardlink",
+        "sha256": "c4264bedeee12db11ab10b57da5272636645a6f2a4ce5e1eeed4ad2360bfb259",
+        "sha256_in_prefix": "c4264bedeee12db11ab10b57da5272636645a6f2a4ce5e1eeed4ad2360bfb259",
+        "size_in_bytes": 62279
+      },
+      {
+        "_path": "Library/lib/avif.lib",
+        "path_type": "hardlink",
+        "sha256": "cc3aa35736154cca6d79e547f0860bc9e5afcd837d3842c5e4e4b00639c10bd6",
+        "sha256_in_prefix": "cc3aa35736154cca6d79e547f0860bc9e5afcd837d3842c5e4e4b00639c10bd6",
+        "size_in_bytes": 20298
+      },
+      {
+        "_path": "Library/lib/cmake/libavif/libavif-config-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "5a7991020b7bb7d5c80ae7a36869527d424c1daf5aaa5adc99a764b7b6160f48",
+        "sha256_in_prefix": "5a7991020b7bb7d5c80ae7a36869527d424c1daf5aaa5adc99a764b7b6160f48",
+        "size_in_bytes": 848
+      },
+      {
+        "_path": "Library/lib/cmake/libavif/libavif-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "eaf3a8d6969e3debe74b613520e3fe8d43087b8a6b0f7adb2d08383943e05d06",
+        "sha256_in_prefix": "eaf3a8d6969e3debe74b613520e3fe8d43087b8a6b0f7adb2d08383943e05d06",
+        "size_in_bytes": 2827
+      },
+      {
+        "_path": "Library/lib/cmake/libavif/libavif-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "e9c7388847de8a15d53a3f79400e9b456a6e6376098f4ee680edc97f356d141d",
+        "sha256_in_prefix": "e9c7388847de8a15d53a3f79400e9b456a6e6376098f4ee680edc97f356d141d",
+        "size_in_bytes": 4005
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libavif.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libavif-split_1699878077838/_h_env",
+        "sha256": "ebc41e9c82be206b47355134a607018c82bb411201301af9c4aa268815cb5187",
+        "sha256_in_prefix": "e1d64f4f8bd4622dc14af55a7b5d6c125c32acf48f814526b6a0a0ffd52317ed",
+        "size_in_bytes": 293
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7a02658e292c40e1d99aa9b587a02cb5807cce7a784bd17f196a6ce74e24ced7",
+  "size": 104651,
+  "subdir": "win-64",
+  "timestamp": 1699878685050,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libavif-1.0.1-h7a9aacb_3.conda",
+  "version": "1.0.1"
+}

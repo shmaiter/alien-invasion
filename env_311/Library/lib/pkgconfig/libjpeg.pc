@@ -1,0 +1,10 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+libdir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/lib
+includedir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.0.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

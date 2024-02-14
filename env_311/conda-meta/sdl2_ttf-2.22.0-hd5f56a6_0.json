@@ -1,0 +1,113 @@
+{
+  "build": "hd5f56a6_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "freetype >=2.12.1,<3.0a0",
+    "harfbuzz >=8.3.0,<9.0a0",
+    "sdl2 >=2.28.5,<3.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2_ttf-2.22.0-hd5f56a6_0",
+  "files": [
+    "Library/bin/SDL2_ttf.dll",
+    "Library/cmake/SDL2_ttf-shared-targets-release.cmake",
+    "Library/cmake/SDL2_ttf-shared-targets.cmake",
+    "Library/cmake/SDL2_ttfConfig.cmake",
+    "Library/cmake/SDL2_ttfConfigVersion.cmake",
+    "Library/include/SDL2/SDL_ttf.h",
+    "Library/lib/SDL2_ttf.lib",
+    "Library/lib/pkgconfig/SDL2_ttf.pc",
+    "Library/share/licenses/SDL2_ttf/LICENSE.txt",
+    ".nonadmin"
+  ],
+  "fn": "sdl2_ttf-2.22.0-hd5f56a6_0.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2_ttf-2.22.0-hd5f56a6_0",
+    "type": 1
+  },
+  "md5": "0d17edf66ae1fb1047ebbe7e9fe84932",
+  "name": "sdl2_ttf",
+  "package_tarball_full_path": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2_ttf-2.22.0-hd5f56a6_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/SDL2_ttf.dll",
+        "path_type": "hardlink",
+        "sha256": "5a43ce47b5e0fce45b1e166bfcf3c0cae8fecf90caadad54fd6718e8ae228b25",
+        "sha256_in_prefix": "5a43ce47b5e0fce45b1e166bfcf3c0cae8fecf90caadad54fd6718e8ae228b25",
+        "size_in_bytes": 66048
+      },
+      {
+        "_path": "Library/cmake/SDL2_ttf-shared-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "d87e36df23710aa3d022f354ceb6df018d23bfad053071251fa5e5b90496bd68",
+        "sha256_in_prefix": "d87e36df23710aa3d022f354ceb6df018d23bfad053071251fa5e5b90496bd68",
+        "size_in_bytes": 992
+      },
+      {
+        "_path": "Library/cmake/SDL2_ttf-shared-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "a9305df94e4569f0faf60c187c86a20c96ca7ee941411dd45f4923873344ea04",
+        "sha256_in_prefix": "a9305df94e4569f0faf60c187c86a20c96ca7ee941411dd45f4923873344ea04",
+        "size_in_bytes": 3974
+      },
+      {
+        "_path": "Library/cmake/SDL2_ttfConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "b6164be448e86e5b606927b6c8a26755589d1511e120fbffb4c9c4c7d559e064",
+        "sha256_in_prefix": "b6164be448e86e5b606927b6c8a26755589d1511e120fbffb4c9c4c7d559e064",
+        "size_in_bytes": 1618
+      },
+      {
+        "_path": "Library/cmake/SDL2_ttfConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "a33bcc3eb863f21fa880c0ba4e0bc884c06ea18873065d4217fcf8afd1430d4c",
+        "sha256_in_prefix": "a33bcc3eb863f21fa880c0ba4e0bc884c06ea18873065d4217fcf8afd1430d4c",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_ttf.h",
+        "path_type": "hardlink",
+        "sha256": "e65c899b434dad8b7813d4cfb1eebaa67d7905f5ae7949409b4dcfc2d67f72cf",
+        "sha256_in_prefix": "e65c899b434dad8b7813d4cfb1eebaa67d7905f5ae7949409b4dcfc2d67f72cf",
+        "size_in_bytes": 87296
+      },
+      {
+        "_path": "Library/lib/SDL2_ttf.lib",
+        "path_type": "hardlink",
+        "sha256": "8bba115cdbd1ea0d88eb3765ad21b1153c4a404956a515e769cdd665a9802056",
+        "sha256_in_prefix": "8bba115cdbd1ea0d88eb3765ad21b1153c4a404956a515e769cdd665a9802056",
+        "size_in_bytes": 21896
+      },
+      {
+        "_path": "Library/lib/pkgconfig/SDL2_ttf.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/sdl2_ttf_1705872555587/_h_env",
+        "sha256": "3978a2e5999291b08691030e8864ae996a9c907d8cdb9ea1871042456760144b",
+        "sha256_in_prefix": "5d9adc0b9f5a862a3827ad738142f16bf080a9935f8b2b1d12b52cecc2a84161",
+        "size_in_bytes": 387
+      },
+      {
+        "_path": "Library/share/licenses/SDL2_ttf/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a0e8ce06504966e45088ee1cc7583cc8af9aac615d4cf56d47d847da9cb15139",
+        "sha256_in_prefix": "a0e8ce06504966e45088ee1cc7583cc8af9aac615d4cf56d47d847da9cb15139",
+        "size_in_bytes": 878
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5b8a849c9d88e1ac11ad3315e5606faf2310e0389b7ebb4ddab2bd3ce35d462f",
+  "size": 47987,
+  "subdir": "win-64",
+  "timestamp": 1705872887101,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sdl2_ttf-2.22.0-hd5f56a6_0.conda",
+  "version": "2.22.0"
+}

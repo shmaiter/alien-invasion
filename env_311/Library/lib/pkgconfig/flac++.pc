@@ -1,0 +1,11 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+libdir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/lib
+includedir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/include
+
+Name: FLAC++
+Description: Free Lossless Audio Codec Library (C++ API)
+Version: 1.4.3
+Requires: flac
+Libs: -L${libdir} -lFLAC++
+Cflags: -I${includedir}

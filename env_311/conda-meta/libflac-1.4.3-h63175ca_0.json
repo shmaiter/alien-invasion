@@ -1,0 +1,251 @@
+{
+  "build": "h63175ca_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libogg 1.3.*",
+    "libogg >=1.3.4,<1.4.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\shmai\\anaconda3\\pkgs\\libflac-1.4.3-h63175ca_0",
+  "files": [
+    "Library/bin/FLAC++.dll",
+    "Library/bin/FLAC.dll",
+    "Library/bin/flac.exe",
+    "Library/bin/metaflac.exe",
+    "Library/include/FLAC++/all.h",
+    "Library/include/FLAC++/decoder.h",
+    "Library/include/FLAC++/encoder.h",
+    "Library/include/FLAC++/export.h",
+    "Library/include/FLAC++/metadata.h",
+    "Library/include/FLAC/all.h",
+    "Library/include/FLAC/assert.h",
+    "Library/include/FLAC/callback.h",
+    "Library/include/FLAC/export.h",
+    "Library/include/FLAC/format.h",
+    "Library/include/FLAC/metadata.h",
+    "Library/include/FLAC/ordinals.h",
+    "Library/include/FLAC/stream_decoder.h",
+    "Library/include/FLAC/stream_encoder.h",
+    "Library/lib/FLAC++.lib",
+    "Library/lib/FLAC.lib",
+    "Library/lib/cmake/FLAC/flac-config-version.cmake",
+    "Library/lib/cmake/FLAC/flac-config.cmake",
+    "Library/lib/cmake/FLAC/targets-release.cmake",
+    "Library/lib/cmake/FLAC/targets.cmake",
+    "Library/lib/pkgconfig/flac++.pc",
+    "Library/lib/pkgconfig/flac.pc",
+    ".nonadmin"
+  ],
+  "fn": "libflac-1.4.3-h63175ca_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\shmai\\anaconda3\\pkgs\\libflac-1.4.3-h63175ca_0",
+    "type": 1
+  },
+  "md5": "9aca744e428be2ced2f35b421bf19afa",
+  "name": "libflac",
+  "package_tarball_full_path": "C:\\Users\\shmai\\anaconda3\\pkgs\\libflac-1.4.3-h63175ca_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/FLAC++.dll",
+        "path_type": "hardlink",
+        "sha256": "027b24ba2f8bfff1d8fbb2967e112e097fe5f3a533055d71697d57f4ad7e1971",
+        "sha256_in_prefix": "027b24ba2f8bfff1d8fbb2967e112e097fe5f3a533055d71697d57f4ad7e1971",
+        "size_in_bytes": 86528
+      },
+      {
+        "_path": "Library/bin/FLAC.dll",
+        "path_type": "hardlink",
+        "sha256": "73695e8d44e4ea0b0de9931ab45450d945fd1474cacccf0ed6b064bfa0af7e21",
+        "sha256_in_prefix": "73695e8d44e4ea0b0de9931ab45450d945fd1474cacccf0ed6b064bfa0af7e21",
+        "size_in_bytes": 281600
+      },
+      {
+        "_path": "Library/bin/flac.exe",
+        "path_type": "hardlink",
+        "sha256": "da5efc9d81248b71b64bc40aa95d48761f00618f47e100a12848958d6116122c",
+        "sha256_in_prefix": "da5efc9d81248b71b64bc40aa95d48761f00618f47e100a12848958d6116122c",
+        "size_in_bytes": 202240
+      },
+      {
+        "_path": "Library/bin/metaflac.exe",
+        "path_type": "hardlink",
+        "sha256": "e11f4cfa72048a4f0e259c4fa499b2903133d9b319b7587e919c45e9e7533292",
+        "sha256_in_prefix": "e11f4cfa72048a4f0e259c4fa499b2903133d9b319b7587e919c45e9e7533292",
+        "size_in_bytes": 116736
+      },
+      {
+        "_path": "Library/include/FLAC++/all.h",
+        "path_type": "hardlink",
+        "sha256": "b5ebf630573554fd4fbb61e6ccafd810e550a6af619f8d587de241f51f399a81",
+        "sha256_in_prefix": "b5ebf630573554fd4fbb61e6ccafd810e550a6af619f8d587de241f51f399a81",
+        "size_in_bytes": 1976
+      },
+      {
+        "_path": "Library/include/FLAC++/decoder.h",
+        "path_type": "hardlink",
+        "sha256": "effde64ce0289580bb916873575d57eba3de0b7ebd9c653603cfbbbe3f6cdecc",
+        "sha256_in_prefix": "effde64ce0289580bb916873575d57eba3de0b7ebd9c653603cfbbbe3f6cdecc",
+        "size_in_bytes": 12789
+      },
+      {
+        "_path": "Library/include/FLAC++/encoder.h",
+        "path_type": "hardlink",
+        "sha256": "c4f6ca36c9ce7f7efa10441bdcfdfdc92e69b79d647f3e051ff9dbe7ad43e92f",
+        "sha256_in_prefix": "c4f6ca36c9ce7f7efa10441bdcfdfdc92e69b79d647f3e051ff9dbe7ad43e92f",
+        "size_in_bytes": 15668
+      },
+      {
+        "_path": "Library/include/FLAC++/export.h",
+        "path_type": "hardlink",
+        "sha256": "240d2ca7b3e2c3c1987c75beb6c2fdbc87d326eebc38472318bdd3a9261a5a20",
+        "sha256_in_prefix": "240d2ca7b3e2c3c1987c75beb6c2fdbc87d326eebc38472318bdd3a9261a5a20",
+        "size_in_bytes": 3932
+      },
+      {
+        "_path": "Library/include/FLAC++/metadata.h",
+        "path_type": "hardlink",
+        "sha256": "e3b32f02cc27e2ac1ffdf475ecd9162852c34f10d5280677398e15979a240e1b",
+        "sha256_in_prefix": "e3b32f02cc27e2ac1ffdf475ecd9162852c34f10d5280677398e15979a240e1b",
+        "size_in_bytes": 51538
+      },
+      {
+        "_path": "Library/include/FLAC/all.h",
+        "path_type": "hardlink",
+        "sha256": "4bb073f434b1533c2680614e005dac60eeaf60231b9f92225d22436439a5291c",
+        "sha256_in_prefix": "4bb073f434b1533c2680614e005dac60eeaf60231b9f92225d22436439a5291c",
+        "size_in_bytes": 19896
+      },
+      {
+        "_path": "Library/include/FLAC/assert.h",
+        "path_type": "hardlink",
+        "sha256": "385573c87c67aee2b54785fd65ec50b01af5490ebc4897ae69f7db2a20b529d8",
+        "sha256_in_prefix": "385573c87c67aee2b54785fd65ec50b01af5490ebc4897ae69f7db2a20b529d8",
+        "size_in_bytes": 2153
+      },
+      {
+        "_path": "Library/include/FLAC/callback.h",
+        "path_type": "hardlink",
+        "sha256": "360821904205d0fe88698e5ae98b1c5d9e0d355ce67ab1a1d55a4bf47f9f727f",
+        "sha256_in_prefix": "360821904205d0fe88698e5ae98b1c5d9e0d355ce67ab1a1d55a4bf47f9f727f",
+        "size_in_bytes": 7649
+      },
+      {
+        "_path": "Library/include/FLAC/export.h",
+        "path_type": "hardlink",
+        "sha256": "958e42bc159e9eebacf706fa332e92d66e29f84a906224684990bbef9650c7a5",
+        "sha256_in_prefix": "958e42bc159e9eebacf706fa332e92d66e29f84a906224684990bbef9650c7a5",
+        "size_in_bytes": 4102
+      },
+      {
+        "_path": "Library/include/FLAC/format.h",
+        "path_type": "hardlink",
+        "sha256": "c0680f56b1c4a123212d2e0cedafedf0a729fa1ec833bfc12936201938caba3c",
+        "sha256_in_prefix": "c0680f56b1c4a123212d2e0cedafedf0a729fa1ec833bfc12936201938caba3c",
+        "size_in_bytes": 41367
+      },
+      {
+        "_path": "Library/include/FLAC/metadata.h",
+        "path_type": "hardlink",
+        "sha256": "26c7dfca7b9b59745e0611d0ec7bbf9600d4b5be5a4a6f64db4221fa8e3f8835",
+        "sha256_in_prefix": "26c7dfca7b9b59745e0611d0ec7bbf9600d4b5be5a4a6f64db4221fa8e3f8835",
+        "size_in_bytes": 101800
+      },
+      {
+        "_path": "Library/include/FLAC/ordinals.h",
+        "path_type": "hardlink",
+        "sha256": "6116952f8888924b1f6b794287682c9427427bb1b79248675773fafa06f084e8",
+        "sha256_in_prefix": "6116952f8888924b1f6b794287682c9427427bb1b79248675773fafa06f084e8",
+        "size_in_bytes": 2081
+      },
+      {
+        "_path": "Library/include/FLAC/stream_decoder.h",
+        "path_type": "hardlink",
+        "sha256": "9de5f4f76f7f0e2b76c2a53b2dd3c2177b30a413655dbc2691465cbf8c60b4f7",
+        "sha256_in_prefix": "9de5f4f76f7f0e2b76c2a53b2dd3c2177b30a413655dbc2691465cbf8c60b4f7",
+        "size_in_bytes": 71583
+      },
+      {
+        "_path": "Library/include/FLAC/stream_encoder.h",
+        "path_type": "hardlink",
+        "sha256": "4223d666aae8e95b395120d0d77dac92f4c74242264f65f4e6fa0df0ede09f71",
+        "sha256_in_prefix": "4223d666aae8e95b395120d0d77dac92f4c74242264f65f4e6fa0df0ede09f71",
+        "size_in_bytes": 84581
+      },
+      {
+        "_path": "Library/lib/FLAC++.lib",
+        "path_type": "hardlink",
+        "sha256": "381daf1e539aadd3a2b440aa3e806bb726185f3f271ca08eed2fbe0d80820c8d",
+        "sha256_in_prefix": "381daf1e539aadd3a2b440aa3e806bb726185f3f271ca08eed2fbe0d80820c8d",
+        "size_in_bytes": 209814
+      },
+      {
+        "_path": "Library/lib/FLAC.lib",
+        "path_type": "hardlink",
+        "sha256": "e5b089088af860649b9017dc1e4678993259933c33ee10cdb49314a8df21da37",
+        "sha256_in_prefix": "e5b089088af860649b9017dc1e4678993259933c33ee10cdb49314a8df21da37",
+        "size_in_bytes": 88244
+      },
+      {
+        "_path": "Library/lib/cmake/FLAC/flac-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "792a4fd3d99aa8c86e9c7fe921d487a3a187043f9947b96103dff6b42f4f2058",
+        "sha256_in_prefix": "792a4fd3d99aa8c86e9c7fe921d487a3a187043f9947b96103dff6b42f4f2058",
+        "size_in_bytes": 1904
+      },
+      {
+        "_path": "Library/lib/cmake/FLAC/flac-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "cda2001ec59aecd2335d88ced10416d26e2485d24f3cbe675c8c6924ccd3640e",
+        "sha256_in_prefix": "cda2001ec59aecd2335d88ced10416d26e2485d24f3cbe675c8c6924ccd3640e",
+        "size_in_bytes": 1215
+      },
+      {
+        "_path": "Library/lib/cmake/FLAC/targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "d20d148c24e62c3ad54116b3fe3057fef9a4655ec82dcb1b6ba0fb73a76d8876",
+        "sha256_in_prefix": "d20d148c24e62c3ad54116b3fe3057fef9a4655ec82dcb1b6ba0fb73a76d8876",
+        "size_in_bytes": 2226
+      },
+      {
+        "_path": "Library/lib/cmake/FLAC/targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "ca51e2cdd31c34b27371ebef3940132125ab872830f21de3ef675b7c185bccaf",
+        "sha256_in_prefix": "ca51e2cdd31c34b27371ebef3940132125ab872830f21de3ef675b7c185bccaf",
+        "size_in_bytes": 4760
+      },
+      {
+        "_path": "Library/lib/pkgconfig/flac++.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libflac_1687765479652/_h_env",
+        "sha256": "9ac73938e2170416da2723de1feaaef6b73c95a716ab5a18701bf15ccb2448b0",
+        "sha256_in_prefix": "230950dd4e76fdd21515cc2f8f5ef9366098616a10da966471a240b87ce6c687",
+        "size_in_bytes": 388
+      },
+      {
+        "_path": "Library/lib/pkgconfig/flac.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libflac_1687765479652/_h_env",
+        "sha256": "ad11631f534017369ea900dfb21fa6c8ff9455543a14bc8ad369ac1453f099b4",
+        "sha256_in_prefix": "7c2e007bb006388e226c2f62288bf99d620943829a92411275e2207ff4323b7e",
+        "size_in_bytes": 400
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "965d1b9c957956a50797db24c031bdb3a604ef0e9a03713965513419aa1f99df",
+  "size": 331119,
+  "subdir": "win-64",
+  "timestamp": 1687766047396,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libflac-1.4.3-h63175ca_0.conda",
+  "version": "1.4.3"
+}

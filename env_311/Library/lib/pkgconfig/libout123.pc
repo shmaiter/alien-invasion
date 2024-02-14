@@ -1,0 +1,12 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+libdir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/lib
+includedir=D:/SoftDev/Python/Games/alien_invasion/env_311/Library/include
+
+Name: libout123
+Description: A streaming audio output API derived from mpg123
+Requires: 
+Version: 1.32.4
+Libs: -L${libdir} -lout123 
+Libs.private:  
+Cflags: -I${includedir} 

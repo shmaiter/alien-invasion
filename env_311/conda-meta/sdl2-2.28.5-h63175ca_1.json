@@ -1,0 +1,814 @@
+{
+  "build": "h63175ca_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2-2.28.5-h63175ca_1",
+  "files": [
+    "Library/bin/SDL2.dll",
+    "Library/cmake/SDL2Config.cmake",
+    "Library/cmake/SDL2ConfigVersion.cmake",
+    "Library/cmake/SDL2Targets-release.cmake",
+    "Library/cmake/SDL2Targets.cmake",
+    "Library/cmake/SDL2mainTargets-release.cmake",
+    "Library/cmake/SDL2mainTargets.cmake",
+    "Library/cmake/SDL2staticTargets-release.cmake",
+    "Library/cmake/SDL2staticTargets.cmake",
+    "Library/cmake/SDL2testTargets-release.cmake",
+    "Library/cmake/SDL2testTargets.cmake",
+    "Library/cmake/sdlfind.cmake",
+    "Library/include/SDL2/SDL.h",
+    "Library/include/SDL2/SDL_assert.h",
+    "Library/include/SDL2/SDL_atomic.h",
+    "Library/include/SDL2/SDL_audio.h",
+    "Library/include/SDL2/SDL_bits.h",
+    "Library/include/SDL2/SDL_blendmode.h",
+    "Library/include/SDL2/SDL_clipboard.h",
+    "Library/include/SDL2/SDL_config.h",
+    "Library/include/SDL2/SDL_copying.h",
+    "Library/include/SDL2/SDL_cpuinfo.h",
+    "Library/include/SDL2/SDL_egl.h",
+    "Library/include/SDL2/SDL_endian.h",
+    "Library/include/SDL2/SDL_error.h",
+    "Library/include/SDL2/SDL_events.h",
+    "Library/include/SDL2/SDL_filesystem.h",
+    "Library/include/SDL2/SDL_gamecontroller.h",
+    "Library/include/SDL2/SDL_gesture.h",
+    "Library/include/SDL2/SDL_guid.h",
+    "Library/include/SDL2/SDL_haptic.h",
+    "Library/include/SDL2/SDL_hidapi.h",
+    "Library/include/SDL2/SDL_hints.h",
+    "Library/include/SDL2/SDL_joystick.h",
+    "Library/include/SDL2/SDL_keyboard.h",
+    "Library/include/SDL2/SDL_keycode.h",
+    "Library/include/SDL2/SDL_loadso.h",
+    "Library/include/SDL2/SDL_locale.h",
+    "Library/include/SDL2/SDL_log.h",
+    "Library/include/SDL2/SDL_main.h",
+    "Library/include/SDL2/SDL_messagebox.h",
+    "Library/include/SDL2/SDL_metal.h",
+    "Library/include/SDL2/SDL_misc.h",
+    "Library/include/SDL2/SDL_mouse.h",
+    "Library/include/SDL2/SDL_mutex.h",
+    "Library/include/SDL2/SDL_name.h",
+    "Library/include/SDL2/SDL_opengl.h",
+    "Library/include/SDL2/SDL_opengl_glext.h",
+    "Library/include/SDL2/SDL_opengles.h",
+    "Library/include/SDL2/SDL_opengles2.h",
+    "Library/include/SDL2/SDL_opengles2_gl2.h",
+    "Library/include/SDL2/SDL_opengles2_gl2ext.h",
+    "Library/include/SDL2/SDL_opengles2_gl2platform.h",
+    "Library/include/SDL2/SDL_opengles2_khrplatform.h",
+    "Library/include/SDL2/SDL_pixels.h",
+    "Library/include/SDL2/SDL_platform.h",
+    "Library/include/SDL2/SDL_power.h",
+    "Library/include/SDL2/SDL_quit.h",
+    "Library/include/SDL2/SDL_rect.h",
+    "Library/include/SDL2/SDL_render.h",
+    "Library/include/SDL2/SDL_revision.h",
+    "Library/include/SDL2/SDL_rwops.h",
+    "Library/include/SDL2/SDL_scancode.h",
+    "Library/include/SDL2/SDL_sensor.h",
+    "Library/include/SDL2/SDL_shape.h",
+    "Library/include/SDL2/SDL_stdinc.h",
+    "Library/include/SDL2/SDL_surface.h",
+    "Library/include/SDL2/SDL_system.h",
+    "Library/include/SDL2/SDL_syswm.h",
+    "Library/include/SDL2/SDL_test.h",
+    "Library/include/SDL2/SDL_test_assert.h",
+    "Library/include/SDL2/SDL_test_common.h",
+    "Library/include/SDL2/SDL_test_compare.h",
+    "Library/include/SDL2/SDL_test_crc32.h",
+    "Library/include/SDL2/SDL_test_font.h",
+    "Library/include/SDL2/SDL_test_fuzzer.h",
+    "Library/include/SDL2/SDL_test_harness.h",
+    "Library/include/SDL2/SDL_test_images.h",
+    "Library/include/SDL2/SDL_test_log.h",
+    "Library/include/SDL2/SDL_test_md5.h",
+    "Library/include/SDL2/SDL_test_memory.h",
+    "Library/include/SDL2/SDL_test_random.h",
+    "Library/include/SDL2/SDL_thread.h",
+    "Library/include/SDL2/SDL_timer.h",
+    "Library/include/SDL2/SDL_touch.h",
+    "Library/include/SDL2/SDL_types.h",
+    "Library/include/SDL2/SDL_version.h",
+    "Library/include/SDL2/SDL_video.h",
+    "Library/include/SDL2/SDL_vulkan.h",
+    "Library/include/SDL2/begin_code.h",
+    "Library/include/SDL2/close_code.h",
+    "Library/lib/SDL2-static.lib",
+    "Library/lib/SDL2.lib",
+    "Library/lib/SDL2_test.lib",
+    "Library/lib/SDL2main.lib",
+    "Library/lib/pkgconfig/sdl2.pc",
+    "Library/licenses/SDL2/LICENSE.txt",
+    ".nonadmin"
+  ],
+  "fn": "sdl2-2.28.5-h63175ca_1.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2-2.28.5-h63175ca_1",
+    "type": 1
+  },
+  "md5": "94ae01bbeb7aaeb532ecc9737831990c",
+  "name": "sdl2",
+  "package_tarball_full_path": "C:\\Users\\shmai\\anaconda3\\pkgs\\sdl2-2.28.5-h63175ca_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/SDL2.dll",
+        "path_type": "hardlink",
+        "sha256": "5af6c8d2c58960627593e4cfbf3e5629518fefdb22a155072ebbcb6f577fc8a1",
+        "sha256_in_prefix": "5af6c8d2c58960627593e4cfbf3e5629518fefdb22a155072ebbcb6f577fc8a1",
+        "size_in_bytes": 1722368
+      },
+      {
+        "_path": "Library/cmake/SDL2Config.cmake",
+        "path_type": "hardlink",
+        "sha256": "09fdb0487c05ed51add6997c07f9506a9af11e6eb34201369ced5f104932a304",
+        "sha256_in_prefix": "09fdb0487c05ed51add6997c07f9506a9af11e6eb34201369ced5f104932a304",
+        "size_in_bytes": 3401
+      },
+      {
+        "_path": "Library/cmake/SDL2ConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "20342c5d4eb70a8c30d52ef08de7d9aae4efb3776c492f825697b1e55038263e",
+        "sha256_in_prefix": "20342c5d4eb70a8c30d52ef08de7d9aae4efb3776c492f825697b1e55038263e",
+        "size_in_bytes": 1905
+      },
+      {
+        "_path": "Library/cmake/SDL2Targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "7916ef6d19517810dc425ff3d7a902f273732d9ab6ddb1d6ea2ee44065af90bd",
+        "sha256_in_prefix": "7916ef6d19517810dc425ff3d7a902f273732d9ab6ddb1d6ea2ee44065af90bd",
+        "size_in_bytes": 878
+      },
+      {
+        "_path": "Library/cmake/SDL2Targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "42fd9b903c13c85d7d1ff43fe6804221ff54cd335f2370f4a1e55cf61bf1c112",
+        "sha256_in_prefix": "42fd9b903c13c85d7d1ff43fe6804221ff54cd335f2370f4a1e55cf61bf1c112",
+        "size_in_bytes": 4035
+      },
+      {
+        "_path": "Library/cmake/SDL2mainTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "6d6bfc3f9032e4f35e6359dab1f77293e0034c976156cf82b5fc45687e02a582",
+        "sha256_in_prefix": "6d6bfc3f9032e4f35e6359dab1f77293e0034c976156cf82b5fc45687e02a582",
+        "size_in_bytes": 862
+      },
+      {
+        "_path": "Library/cmake/SDL2mainTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "3cc94b69b1a8cc7c234eb9b043c455e220f96838bb3ab3d539746ce7806df8eb",
+        "sha256_in_prefix": "3cc94b69b1a8cc7c234eb9b043c455e220f96838bb3ab3d539746ce7806df8eb",
+        "size_in_bytes": 4169
+      },
+      {
+        "_path": "Library/cmake/SDL2staticTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "edf63722b98345a8128fc11e7373340fb5baa0f9e6a1df94e9848abd7e35e9fe",
+        "sha256_in_prefix": "edf63722b98345a8128fc11e7373340fb5baa0f9e6a1df94e9848abd7e35e9fe",
+        "size_in_bytes": 883
+      },
+      {
+        "_path": "Library/cmake/SDL2staticTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "c57880f5e56cf5bb7ca5c94e7274dad97aeca14d90ad7a13050bf2efd5ba0503",
+        "sha256_in_prefix": "c57880f5e56cf5bb7ca5c94e7274dad97aeca14d90ad7a13050bf2efd5ba0503",
+        "size_in_bytes": 4530
+      },
+      {
+        "_path": "Library/cmake/SDL2testTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "f62bd03337a1a98add7ec65be120f77c7b1cc466de02f17767a5d3d458cf32ec",
+        "sha256_in_prefix": "f62bd03337a1a98add7ec65be120f77c7b1cc466de02f17767a5d3d458cf32ec",
+        "size_in_bytes": 864
+      },
+      {
+        "_path": "Library/cmake/SDL2testTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "99b80f1274cf87b3dc5c495dcffc8c68b2c0127d20cb341da69ebbf33aa60923",
+        "sha256_in_prefix": "99b80f1274cf87b3dc5c495dcffc8c68b2c0127d20cb341da69ebbf33aa60923",
+        "size_in_bytes": 3980
+      },
+      {
+        "_path": "Library/cmake/sdlfind.cmake",
+        "path_type": "hardlink",
+        "sha256": "80152b52da2ac50a3323beaaec0fc1e3aa3c3b5a66d382fdb47736b313df9a75",
+        "sha256_in_prefix": "80152b52da2ac50a3323beaaec0fc1e3aa3c3b5a66d382fdb47736b313df9a75",
+        "size_in_bytes": 342
+      },
+      {
+        "_path": "Library/include/SDL2/SDL.h",
+        "path_type": "hardlink",
+        "sha256": "adcebe52582978955ebcc9e06f072a28ffb5b3181ad6f4c5375bb2f866e313bd",
+        "sha256_in_prefix": "adcebe52582978955ebcc9e06f072a28ffb5b3181ad6f4c5375bb2f866e313bd",
+        "size_in_bytes": 8084
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_assert.h",
+        "path_type": "hardlink",
+        "sha256": "269e0d4e053c965a14376b964160411a81cea69c756ff7e027adc9adcbb5663f",
+        "sha256_in_prefix": "269e0d4e053c965a14376b964160411a81cea69c756ff7e027adc9adcbb5663f",
+        "size_in_bytes": 12597
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_atomic.h",
+        "path_type": "hardlink",
+        "sha256": "94a65672e8ac2f9d3a6562525f8af260a9b2e330df41a4386e1814486dd51dbb",
+        "sha256_in_prefix": "94a65672e8ac2f9d3a6562525f8af260a9b2e330df41a4386e1814486dd51dbb",
+        "size_in_bytes": 14702
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_audio.h",
+        "path_type": "hardlink",
+        "sha256": "f403002338b0edfde05dc115710131d430c66546c3af09d8f3faf6488a29876d",
+        "sha256_in_prefix": "f403002338b0edfde05dc115710131d430c66546c3af09d8f3faf6488a29876d",
+        "size_in_bytes": 59722
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_bits.h",
+        "path_type": "hardlink",
+        "sha256": "45fd9673635a5350615b58b2c9ca014b40d4407c51d9bb4932c8b74229e25984",
+        "sha256_in_prefix": "45fd9673635a5350615b58b2c9ca014b40d4407c51d9bb4932c8b74229e25984",
+        "size_in_bytes": 3205
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_blendmode.h",
+        "path_type": "hardlink",
+        "sha256": "64521ecb86cb380259803dd54ed09783e3a5bfcf5ed3cb45ff0681093e079664",
+        "sha256_in_prefix": "64521ecb86cb380259803dd54ed09783e3a5bfcf5ed3cb45ff0681093e079664",
+        "size_in_bytes": 9018
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_clipboard.h",
+        "path_type": "hardlink",
+        "sha256": "8b22af9bed93b60c2008c1bcb79c04173c4042764876fb24832fbcf49880cb53",
+        "sha256_in_prefix": "8b22af9bed93b60c2008c1bcb79c04173c4042764876fb24832fbcf49880cb53",
+        "size_in_bytes": 4307
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_config.h",
+        "path_type": "hardlink",
+        "sha256": "f7eeab8edaa5b34b1f1bace01966beb888b8b9475b09a22addc1db267c0e3ceb",
+        "sha256_in_prefix": "f7eeab8edaa5b34b1f1bace01966beb888b8b9475b09a22addc1db267c0e3ceb",
+        "size_in_bytes": 17264
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_copying.h",
+        "path_type": "hardlink",
+        "sha256": "e73b1830b863f1a2979b88162681870b9e62a62522d4e2315dd3ad5081d0430e",
+        "sha256_in_prefix": "e73b1830b863f1a2979b88162681870b9e62a62522d4e2315dd3ad5081d0430e",
+        "size_in_bytes": 939
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_cpuinfo.h",
+        "path_type": "hardlink",
+        "sha256": "1565dc138052c5d01fa3186c83c7ec583e2bc955897fac793845eae2f08286aa",
+        "sha256_in_prefix": "1565dc138052c5d01fa3186c83c7ec583e2bc955897fac793845eae2f08286aa",
+        "size_in_bytes": 17458
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_egl.h",
+        "path_type": "hardlink",
+        "sha256": "9a14d17dc33a46041dbd6c6964ebb4ce7ff1d99f484a4b58b5368a2287ff17db",
+        "sha256_in_prefix": "9a14d17dc33a46041dbd6c6964ebb4ce7ff1d99f484a4b58b5368a2287ff17db",
+        "size_in_bytes": 108871
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_endian.h",
+        "path_type": "hardlink",
+        "sha256": "4eaa424d2bc0b7c4a139d65ecaaa78dce63d207610b96aec0613b6d7dd2dd3ba",
+        "sha256_in_prefix": "4eaa424d2bc0b7c4a139d65ecaaa78dce63d207610b96aec0613b6d7dd2dd3ba",
+        "size_in_bytes": 9865
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_error.h",
+        "path_type": "hardlink",
+        "sha256": "b08e32c8ed3ab514819efe7614385af4096b975658a1c6cf86a6ba03b05f277c",
+        "sha256_in_prefix": "b08e32c8ed3ab514819efe7614385af4096b975658a1c6cf86a6ba03b05f277c",
+        "size_in_bytes": 5177
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_events.h",
+        "path_type": "hardlink",
+        "sha256": "2047d38ec266781fe86c7bacedb459293aa7bb3694ad82f630bc489338cce426",
+        "sha256_in_prefix": "2047d38ec266781fe86c7bacedb459293aa7bb3694ad82f630bc489338cce426",
+        "size_in_bytes": 47284
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_filesystem.h",
+        "path_type": "hardlink",
+        "sha256": "143bd98e4acda913643018d7299c7e7b9716e000fadc9235f85a5cb465b4b2f2",
+        "sha256_in_prefix": "143bd98e4acda913643018d7299c7e7b9716e000fadc9235f85a5cb465b4b2f2",
+        "size_in_bytes": 5533
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_gamecontroller.h",
+        "path_type": "hardlink",
+        "sha256": "16ecc4d89fdfe3e5d779a4ffee1315e0343798d3fc3764ff054b96f2e1ec7568",
+        "sha256_in_prefix": "16ecc4d89fdfe3e5d779a4ffee1315e0343798d3fc3764ff054b96f2e1ec7568",
+        "size_in_bytes": 40161
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_gesture.h",
+        "path_type": "hardlink",
+        "sha256": "33e0e63fbb4a12f814d62e0a89de39ad20e085d373ee41588e7f2082661d86c6",
+        "sha256_in_prefix": "33e0e63fbb4a12f814d62e0a89de39ad20e085d373ee41588e7f2082661d86c6",
+        "size_in_bytes": 3418
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_guid.h",
+        "path_type": "hardlink",
+        "sha256": "2513dbb767bc82188b39a8926c5ecb904cad450d4f226b96791de5c8f55b8228",
+        "sha256_in_prefix": "2513dbb767bc82188b39a8926c5ecb904cad450d4f226b96791de5c8f55b8228",
+        "size_in_bytes": 3146
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_haptic.h",
+        "path_type": "hardlink",
+        "sha256": "38ad39949efc9303db7fc330281de7f09cf82f4e98c1983c225036c665522b62",
+        "sha256_in_prefix": "38ad39949efc9303db7fc330281de7f09cf82f4e98c1983c225036c665522b62",
+        "size_in_bytes": 43268
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_hidapi.h",
+        "path_type": "hardlink",
+        "sha256": "04574b1398db5f0fca5548ac30e29c5f9b8de226828a5a4c620f89a082684a8b",
+        "sha256_in_prefix": "04574b1398db5f0fca5548ac30e29c5f9b8de226828a5a4c620f89a082684a8b",
+        "size_in_bytes": 17842
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_hints.h",
+        "path_type": "hardlink",
+        "sha256": "a67f4a848fad4e3e77e5b1b888e577abc5ac52d06e44f42c99a34dd0287f3b6f",
+        "sha256_in_prefix": "a67f4a848fad4e3e77e5b1b888e577abc5ac52d06e44f42c99a34dd0287f3b6f",
+        "size_in_bytes": 112701
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_joystick.h",
+        "path_type": "hardlink",
+        "sha256": "2282387b1c9b7a77b52eb7c2d2d52b221673500fcba71cfc6ab8d00275df2a77",
+        "sha256_in_prefix": "2282387b1c9b7a77b52eb7c2d2d52b221673500fcba71cfc6ab8d00275df2a77",
+        "size_in_bytes": 39114
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_keyboard.h",
+        "path_type": "hardlink",
+        "sha256": "e27811a5097ae8cadb44655df1c1e884b5d218ad38a1310b020b9add5db065b8",
+        "sha256_in_prefix": "e27811a5097ae8cadb44655df1c1e884b5d218ad38a1310b020b9add5db065b8",
+        "size_in_bytes": 11044
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_keycode.h",
+        "path_type": "hardlink",
+        "sha256": "e329a891418ab5c513ea474edc4bb244937f9b0995a3312900b716c1b7ae9054",
+        "sha256_in_prefix": "e329a891418ab5c513ea474edc4bb244937f9b0995a3312900b716c1b7ae9054",
+        "size_in_bytes": 15618
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_loadso.h",
+        "path_type": "hardlink",
+        "sha256": "3d682b1bf8ac0d96798cc6135da6b849d389e37ec18edbed1802f9bb83abb798",
+        "sha256_in_prefix": "3d682b1bf8ac0d96798cc6135da6b849d389e37ec18edbed1802f9bb83abb798",
+        "size_in_bytes": 3908
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_locale.h",
+        "path_type": "hardlink",
+        "sha256": "c6f261ee32ccec9d640d276e608c07aaa7303cfb99f2b014d0ad2c2fd29a867f",
+        "sha256_in_prefix": "c6f261ee32ccec9d640d276e608c07aaa7303cfb99f2b014d0ad2c2fd29a867f",
+        "size_in_bytes": 3812
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_log.h",
+        "path_type": "hardlink",
+        "sha256": "94f07d6a06bf02bed2899e46b9a6c6d040cf1fac9316f9d26d81dfa4dcc271c9",
+        "sha256_in_prefix": "94f07d6a06bf02bed2899e46b9a6c6d040cf1fac9316f9d26d81dfa4dcc271c9",
+        "size_in_bytes": 11684
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_main.h",
+        "path_type": "hardlink",
+        "sha256": "d6c8587c617762e8fc6a93f5ad533cac753b3bf24956e5397fcac7ac6aebe45a",
+        "sha256_in_prefix": "d6c8587c617762e8fc6a93f5ad533cac753b3bf24956e5397fcac7ac6aebe45a",
+        "size_in_bytes": 8997
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_messagebox.h",
+        "path_type": "hardlink",
+        "sha256": "9638a17f58b3b745d88fbb1f4dfefc88b496a2fd84b1556adb37cf7d1ed4cf88",
+        "sha256_in_prefix": "9638a17f58b3b745d88fbb1f4dfefc88b496a2fd84b1556adb37cf7d1ed4cf88",
+        "size_in_bytes": 6693
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_metal.h",
+        "path_type": "hardlink",
+        "sha256": "93b17958680f0737e0ca4d30caf568c135414fd032e5c54bd16fad570fc09e11",
+        "sha256_in_prefix": "93b17958680f0737e0ca4d30caf568c135414fd032e5c54bd16fad570fc09e11",
+        "size_in_bytes": 3380
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_misc.h",
+        "path_type": "hardlink",
+        "sha256": "33edc2aefb529ae630be99660c730bef2fe6acc3bf7c92f0123369693853be8e",
+        "sha256_in_prefix": "33edc2aefb529ae630be99660c730bef2fe6acc3bf7c92f0123369693853be8e",
+        "size_in_bytes": 2845
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_mouse.h",
+        "path_type": "hardlink",
+        "sha256": "479c3d0da3602b0fb3e80024fdad8ac1f95bb42069a5fd2521d392d8ee3dd7ca",
+        "sha256_in_prefix": "479c3d0da3602b0fb3e80024fdad8ac1f95bb42069a5fd2521d392d8ee3dd7ca",
+        "size_in_bytes": 16988
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_mutex.h",
+        "path_type": "hardlink",
+        "sha256": "7629897d51290fd3cb0dff9ee0f42ecf9bcae1e2ffdef66d9e31b4a72557fe89",
+        "sha256_in_prefix": "7629897d51290fd3cb0dff9ee0f42ecf9bcae1e2ffdef66d9e31b4a72557fe89",
+        "size_in_bytes": 16739
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_name.h",
+        "path_type": "hardlink",
+        "sha256": "53a1e1f5d7ba0f425f71cc07066a00cbfcda170df456e353d687e8df45fb702c",
+        "sha256_in_prefix": "53a1e1f5d7ba0f425f71cc07066a00cbfcda170df456e353d687e8df45fb702c",
+        "size_in_bytes": 1155
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengl.h",
+        "path_type": "hardlink",
+        "sha256": "6f2dbdce0aef65f7762f2368f9abc1b3df8b77dc119272c5536b6942104c9e32",
+        "sha256_in_prefix": "6f2dbdce0aef65f7762f2368f9abc1b3df8b77dc119272c5536b6942104c9e32",
+        "size_in_bytes": 81091
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengl_glext.h",
+        "path_type": "hardlink",
+        "sha256": "1abb28891c9b0661b6ff3749de2671da5fe12beb5bcb1833b2d6bdf5c89ecdf8",
+        "sha256_in_prefix": "1abb28891c9b0661b6ff3749de2671da5fe12beb5bcb1833b2d6bdf5c89ecdf8",
+        "size_in_bytes": 864070
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles.h",
+        "path_type": "hardlink",
+        "sha256": "d3d3a7accda44c75fce6b850d8dec6b5ae5b9ba4378c3cbbc9a7139035fbd927",
+        "sha256_in_prefix": "d3d3a7accda44c75fce6b850d8dec6b5ae5b9ba4378c3cbbc9a7139035fbd927",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles2.h",
+        "path_type": "hardlink",
+        "sha256": "7364c752f7f86c58cceb7a77f281b180922d8466063dd4fe386fad8677e84937",
+        "sha256_in_prefix": "7364c752f7f86c58cceb7a77f281b180922d8466063dd4fe386fad8677e84937",
+        "size_in_bytes": 1606
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles2_gl2.h",
+        "path_type": "hardlink",
+        "sha256": "d6ec44b1d73f3afce3a20ac6976db7fb3dac656c5190f0b563e4ce90d79a15aa",
+        "sha256_in_prefix": "d6ec44b1d73f3afce3a20ac6976db7fb3dac656c5190f0b563e4ce90d79a15aa",
+        "size_in_bytes": 42938
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles2_gl2ext.h",
+        "path_type": "hardlink",
+        "sha256": "4fc5b0034dcde9c125922e3e70d01489a6b335076856ee660294e1a6305a3719",
+        "sha256_in_prefix": "4fc5b0034dcde9c125922e3e70d01489a6b335076856ee660294e1a6305a3719",
+        "size_in_bytes": 241221
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles2_gl2platform.h",
+        "path_type": "hardlink",
+        "sha256": "4779be999acd1904458238f09c86983b7960ac40e612e05db2db97db615f1e0f",
+        "sha256_in_prefix": "4779be999acd1904458238f09c86983b7960ac40e612e05db2db97db615f1e0f",
+        "size_in_bytes": 646
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_opengles2_khrplatform.h",
+        "path_type": "hardlink",
+        "sha256": "7b1e01aaa7ad8f6fc34b5c7bdf79ebf5189bb09e2c4d2e79fc5d350623d11e83",
+        "sha256_in_prefix": "7b1e01aaa7ad8f6fc34b5c7bdf79ebf5189bb09e2c4d2e79fc5d350623d11e83",
+        "size_in_bytes": 11131
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_pixels.h",
+        "path_type": "hardlink",
+        "sha256": "f7a1155cf3e2c1df7530b127f78de7a013490d2e0182589508686bf9322679bb",
+        "sha256_in_prefix": "f7a1155cf3e2c1df7530b127f78de7a013490d2e0182589508686bf9322679bb",
+        "size_in_bytes": 24522
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_platform.h",
+        "path_type": "hardlink",
+        "sha256": "ca34f28f985b2cc3ecef79c64bdd0a2ecd63447c3ea96029d27713af9eadcc15",
+        "sha256_in_prefix": "ca34f28f985b2cc3ecef79c64bdd0a2ecd63447c3ea96029d27713af9eadcc15",
+        "size_in_bytes": 6744
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_power.h",
+        "path_type": "hardlink",
+        "sha256": "3b376add0e3d1e21dfaf18a2e10b40d7c363e932073d515ffefc4d42e4504aa2",
+        "sha256_in_prefix": "3b376add0e3d1e21dfaf18a2e10b40d7c363e932073d515ffefc4d42e4504aa2",
+        "size_in_bytes": 3226
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_quit.h",
+        "path_type": "hardlink",
+        "sha256": "3e21379d22f2773ab3140ca296f8797a957c92541303fef40523c5190324dc59",
+        "sha256_in_prefix": "3e21379d22f2773ab3140ca296f8797a957c92541303fef40523c5190324dc59",
+        "size_in_bytes": 2106
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_rect.h",
+        "path_type": "hardlink",
+        "sha256": "39876f360f0627e1d4ece14dbe0610b13e62cf2164766470f2c9047813d1e983",
+        "sha256_in_prefix": "39876f360f0627e1d4ece14dbe0610b13e62cf2164766470f2c9047813d1e983",
+        "size_in_bytes": 12860
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_render.h",
+        "path_type": "hardlink",
+        "sha256": "fbdaf5507d0836de271dce493248a539092785434dd88dc1fe359f2591023404",
+        "sha256_in_prefix": "fbdaf5507d0836de271dce493248a539092785434dd88dc1fe359f2591023404",
+        "size_in_bytes": 74035
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_revision.h",
+        "path_type": "hardlink",
+        "sha256": "404d9684849162d9d7357d2c52c8ae876812d32c3ad5add2ef88e55848e027cb",
+        "sha256_in_prefix": "404d9684849162d9d7357d2c52c8ae876812d32c3ad5add2ef88e55848e027cb",
+        "size_in_bytes": 236
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_rwops.h",
+        "path_type": "hardlink",
+        "sha256": "02376362bfb2ea8c7da6d751bc876195231e21fb9f2fa4cd00c989ef17df27b4",
+        "sha256_in_prefix": "02376362bfb2ea8c7da6d751bc876195231e21fb9f2fa4cd00c989ef17df27b4",
+        "size_in_bytes": 28101
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_scancode.h",
+        "path_type": "hardlink",
+        "sha256": "afb9eacdc2b217c297613e5825ce66be11e7140285072c5e3fb77db8daee7d83",
+        "sha256_in_prefix": "afb9eacdc2b217c297613e5825ce66be11e7140285072c5e3fb77db8daee7d83",
+        "size_in_bytes": 16929
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_sensor.h",
+        "path_type": "hardlink",
+        "sha256": "24a723094d0c6a97d014a568c4acae4d99c019f12d47f9dec94e9e054ac24db9",
+        "sha256_in_prefix": "24a723094d0c6a97d014a568c4acae4d99c019f12d47f9dec94e9e054ac24db9",
+        "size_in_bytes": 10294
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_shape.h",
+        "path_type": "hardlink",
+        "sha256": "6f82d6e81e213565e4caccb914ee6058854d0fb8e230944970e455cdf9b3237a",
+        "sha256_in_prefix": "6f82d6e81e213565e4caccb914ee6058854d0fb8e230944970e455cdf9b3237a",
+        "size_in_bytes": 5904
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_stdinc.h",
+        "path_type": "hardlink",
+        "sha256": "559e8ee6c5607971cd9000953f574c00265c8b67f59137089f4b60e4104e83d5",
+        "sha256_in_prefix": "559e8ee6c5607971cd9000953f574c00265c8b67f59137089f4b60e4104e83d5",
+        "size_in_bytes": 29796
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_surface.h",
+        "path_type": "hardlink",
+        "sha256": "10efa8b66f6c64e871bc58c8197c5e01c9d667d4b3d2317a62c219c666663170",
+        "sha256_in_prefix": "10efa8b66f6c64e871bc58c8197c5e01c9d667d4b3d2317a62c219c666663170",
+        "size_in_bytes": 36798
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_system.h",
+        "path_type": "hardlink",
+        "sha256": "9916949bd01d9b189e1e00bef757da34f4519ed750ee29924d71753fcd5364e0",
+        "sha256_in_prefix": "9916949bd01d9b189e1e00bef757da34f4519ed750ee29924d71753fcd5364e0",
+        "size_in_bytes": 20772
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_syswm.h",
+        "path_type": "hardlink",
+        "sha256": "8c6ab20dbff12f5d71fba57b8a2b956c7df431097ceb0209d56d3a084eec76e2",
+        "sha256_in_prefix": "8c6ab20dbff12f5d71fba57b8a2b956c7df431097ceb0209d56d3a084eec76e2",
+        "size_in_bytes": 11506
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test.h",
+        "path_type": "hardlink",
+        "sha256": "13f59f851d968c2487bd322fc804d8b0145a0078ea25470d2ee482da7e539aac",
+        "sha256_in_prefix": "13f59f851d968c2487bd322fc804d8b0145a0078ea25470d2ee482da7e539aac",
+        "size_in_bytes": 2000
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_assert.h",
+        "path_type": "hardlink",
+        "sha256": "d4867a1a337d2512b90f7d9d2c6395675843273cf8d065c81fe17b1f287026e8",
+        "sha256_in_prefix": "d4867a1a337d2512b90f7d9d2c6395675843273cf8d065c81fe17b1f287026e8",
+        "size_in_bytes": 3235
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_common.h",
+        "path_type": "hardlink",
+        "sha256": "becec5adea6b686a34e03fd6cb89672e2d07a1ac92a1e137b0d8c71bc9ea73e5",
+        "sha256_in_prefix": "becec5adea6b686a34e03fd6cb89672e2d07a1ac92a1e137b0d8c71bc9ea73e5",
+        "size_in_bytes": 6872
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_compare.h",
+        "path_type": "hardlink",
+        "sha256": "af9e958dd6ec5695a43d26cd206501db85e74bdc5cf674730a53fb3a4a7ee26c",
+        "sha256_in_prefix": "af9e958dd6ec5695a43d26cd206501db85e74bdc5cf674730a53fb3a4a7ee26c",
+        "size_in_bytes": 2163
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_crc32.h",
+        "path_type": "hardlink",
+        "sha256": "0b3fd9d75a87c48758098fa5a6f4b48b0d3990636dd074b5a26d59fa1f021627",
+        "sha256_in_prefix": "0b3fd9d75a87c48758098fa5a6f4b48b0d3990636dd074b5a26d59fa1f021627",
+        "size_in_bytes": 3385
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_font.h",
+        "path_type": "hardlink",
+        "sha256": "60d1621826f69e6c18c38aa39141edffc8cf87fde0a02cd18ff57cabec4a1d64",
+        "sha256_in_prefix": "60d1621826f69e6c18c38aa39141edffc8cf87fde0a02cd18ff57cabec4a1d64",
+        "size_in_bytes": 5432
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_fuzzer.h",
+        "path_type": "hardlink",
+        "sha256": "6dd1d9665140ac4ec066dd50cdd277b613fb94b472a3a66c5044257053abcfdd",
+        "sha256_in_prefix": "6dd1d9665140ac4ec066dd50cdd277b613fb94b472a3a66c5044257053abcfdd",
+        "size_in_bytes": 13203
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_harness.h",
+        "path_type": "hardlink",
+        "sha256": "e56364e2a4cb6a058f85d485ef82e349543f06250ac3a0206c5f11e8033830c6",
+        "sha256_in_prefix": "e56364e2a4cb6a058f85d485ef82e349543f06250ac3a0206c5f11e8033830c6",
+        "size_in_bytes": 4634
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_images.h",
+        "path_type": "hardlink",
+        "sha256": "9139f4459e5b1fdaa704eedd9682a7cd5ce7b5528064f02b09a2c750b4f5710f",
+        "sha256_in_prefix": "9139f4459e5b1fdaa704eedd9682a7cd5ce7b5528064f02b09a2c750b4f5710f",
+        "size_in_bytes": 2215
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_log.h",
+        "path_type": "hardlink",
+        "sha256": "585f7a35a0d9179a232e84d53ee93c900a2c9b5795472d07a4ecc7c4a296631a",
+        "sha256_in_prefix": "585f7a35a0d9179a232e84d53ee93c900a2c9b5795472d07a4ecc7c4a296631a",
+        "size_in_bytes": 1954
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_md5.h",
+        "path_type": "hardlink",
+        "sha256": "1e39c17d898d648cb5345f58933d057bfbf8251d17aad50cb3da29b98b1eb86c",
+        "sha256_in_prefix": "1e39c17d898d648cb5345f58933d057bfbf8251d17aad50cb3da29b98b1eb86c",
+        "size_in_bytes": 4630
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_memory.h",
+        "path_type": "hardlink",
+        "sha256": "c956fd6238fbbffac34f8e1fb97ca8e410319711caa2fa67d0a857c82e1da445",
+        "sha256_in_prefix": "c956fd6238fbbffac34f8e1fb97ca8e410319711caa2fa67d0a857c82e1da445",
+        "size_in_bytes": 1787
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_test_random.h",
+        "path_type": "hardlink",
+        "sha256": "7624e04058cac8d6e55fa191ac0e8c42197ebd5d10f891b248e2b4bcf8f955d7",
+        "sha256_in_prefix": "7624e04058cac8d6e55fa191ac0e8c42197ebd5d10f891b248e2b4bcf8f955d7",
+        "size_in_bytes": 3156
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_thread.h",
+        "path_type": "hardlink",
+        "sha256": "e6b972e18b475c3e62c789aea0ea297e15af6711923274557e3ca4d21202cfdc",
+        "sha256_in_prefix": "e6b972e18b475c3e62c789aea0ea297e15af6711923274557e3ca4d21202cfdc",
+        "size_in_bytes": 17323
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_timer.h",
+        "path_type": "hardlink",
+        "sha256": "1245870f559e9151fac68eba4f8184903651adfb9425a701c589aa0367d18bc8",
+        "sha256_in_prefix": "1245870f559e9151fac68eba4f8184903651adfb9425a701c589aa0367d18bc8",
+        "size_in_bytes": 7290
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_touch.h",
+        "path_type": "hardlink",
+        "sha256": "971ab29230e565ced41c57fb43b8365526c7eaadc871375a8917b3e26f6cb47b",
+        "sha256_in_prefix": "971ab29230e565ced41c57fb43b8365526c7eaadc871375a8917b3e26f6cb47b",
+        "size_in_bytes": 4506
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_types.h",
+        "path_type": "hardlink",
+        "sha256": "9064acb822ee19df50b4d49fd4d5c9223d3fc04f8524d9ef62a62d1b88a525ab",
+        "sha256_in_prefix": "9064acb822ee19df50b4d49fd4d5c9223d3fc04f8524d9ef62a62d1b88a525ab",
+        "size_in_bytes": 1031
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_version.h",
+        "path_type": "hardlink",
+        "sha256": "303c1f3b551e05db7cd3397a25b1a4220fb1f8b1cc9d5696c1623e7d2be2c26e",
+        "sha256_in_prefix": "303c1f3b551e05db7cd3397a25b1a4220fb1f8b1cc9d5696c1623e7d2be2c26e",
+        "size_in_bytes": 6870
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_video.h",
+        "path_type": "hardlink",
+        "sha256": "7a7de3a010604485f63d664a65fbe238ff7cdb12290ddf0bd137fb86e2813544",
+        "sha256_in_prefix": "7a7de3a010604485f63d664a65fbe238ff7cdb12290ddf0bd137fb86e2813544",
+        "size_in_bytes": 80803
+      },
+      {
+        "_path": "Library/include/SDL2/SDL_vulkan.h",
+        "path_type": "hardlink",
+        "sha256": "3ea0b5d7b4bd81b9ca98a0817fdf75ad00c9ecdd9a93ee3bc865ff80474e1bc7",
+        "sha256_in_prefix": "3ea0b5d7b4bd81b9ca98a0817fdf75ad00c9ecdd9a93ee3bc865ff80474e1bc7",
+        "size_in_bytes": 8540
+      },
+      {
+        "_path": "Library/include/SDL2/begin_code.h",
+        "path_type": "hardlink",
+        "sha256": "9598e70462ae4224aea70b66de465396220c30f94756652c55346d43b13458c5",
+        "sha256_in_prefix": "9598e70462ae4224aea70b66de465396220c30f94756652c55346d43b13458c5",
+        "size_in_bytes": 5533
+      },
+      {
+        "_path": "Library/include/SDL2/close_code.h",
+        "path_type": "hardlink",
+        "sha256": "ff1f06c5cd46688a338973b3fec79b23b7743f2b438845a2f245997e3929d16c",
+        "sha256_in_prefix": "ff1f06c5cd46688a338973b3fec79b23b7743f2b438845a2f245997e3929d16c",
+        "size_in_bytes": 1486
+      },
+      {
+        "_path": "Library/lib/SDL2-static.lib",
+        "path_type": "hardlink",
+        "sha256": "dd3344271a75366365d72e385fc940e1550107bc92b97f4e388dd031146365ad",
+        "sha256_in_prefix": "dd3344271a75366365d72e385fc940e1550107bc92b97f4e388dd031146365ad",
+        "size_in_bytes": 10057986
+      },
+      {
+        "_path": "Library/lib/SDL2.lib",
+        "path_type": "hardlink",
+        "sha256": "bdd53f1e2e5acb4c3cbe9f4b290e6cda0c70e143210ad47aef9de070473074f5",
+        "sha256_in_prefix": "bdd53f1e2e5acb4c3cbe9f4b290e6cda0c70e143210ad47aef9de070473074f5",
+        "size_in_bytes": 183542
+      },
+      {
+        "_path": "Library/lib/SDL2_test.lib",
+        "path_type": "hardlink",
+        "sha256": "1ef3e26690751584fb9798b62d2392f2389b8d7a5bbb624d1d672b070695925f",
+        "sha256_in_prefix": "1ef3e26690751584fb9798b62d2392f2389b8d7a5bbb624d1d672b070695925f",
+        "size_in_bytes": 439172
+      },
+      {
+        "_path": "Library/lib/SDL2main.lib",
+        "path_type": "hardlink",
+        "sha256": "2ce3b99b0ab40e5fc307ecb7488207c8f01600290b65af24d4cd7904c4b98eca",
+        "sha256_in_prefix": "2ce3b99b0ab40e5fc307ecb7488207c8f01600290b65af24d4cd7904c4b98eca",
+        "size_in_bytes": 4208
+      },
+      {
+        "_path": "Library/lib/pkgconfig/sdl2.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/sdl2_1706358754404/_h_env",
+        "sha256": "f3e5123fc4982f1c5dfdea0af72a2b0b004a6675f3d77341a4dfa6a3ed021ef4",
+        "sha256_in_prefix": "a48c27ee2a86863f4c59705ab4471d07e3723a68b5ee11905a327ec82955966d",
+        "size_in_bytes": 655
+      },
+      {
+        "_path": "Library/licenses/SDL2/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9928507f684c1965d07f2b6ef4b4723d5efc2f6b4ab731f743a413c51c319927",
+        "sha256_in_prefix": "9928507f684c1965d07f2b6ef4b4723d5efc2f6b4ab731f743a413c51c319927",
+        "size_in_bytes": 884
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "76803888df269be087e39943c2e6ad924026c1b11441c2c58cc4a8b11b9ffbfd",
+  "size": 2123088,
+  "subdir": "win-64",
+  "timestamp": 1706359408484,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/sdl2-2.28.5-h63175ca_1.conda",
+  "version": "2.28.5"
+}

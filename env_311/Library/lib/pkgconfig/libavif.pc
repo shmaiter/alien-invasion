@@ -1,0 +1,10 @@
+prefix=D:/SoftDev/Python/Games/alien_invasion/env_311/Library
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libavif
+Description: Library for encoding and decoding .avif files
+Version: 1.0.1
+Libs: -L${libdir} -lavif
+Cflags: -I${includedir} -DAVIF_DLL
