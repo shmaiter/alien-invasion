@@ -9,4 +9,6 @@ class Settings:
         # Screen settings
         self.screen_width = 1200
         self.screen_height = 800
-        self.bg_color = (50, 50, 50)
+        self.bg_color = (135,206,235)
+        # Set the background color.
+        # self.bg = pygame.image.load("filename") # stars background to search
