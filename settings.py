@@ -12,3 +12,6 @@ class Settings:
         self.bg_color = (135,206,235)
         # Set the background color.
         # self.bg = pygame.image.load("filename") # stars background to search
+
+        # Ship settings
+        self.ship_speed = 4.5
