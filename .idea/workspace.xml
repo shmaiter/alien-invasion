@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="858b8780-71fc-43b4-b04a-bf99c3cc9d1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/alien_invasion.py" afterDir="false" />
-    </list>
+    <list default="true" id="858b8780-71fc-43b4-b04a-bf99c3cc9d1f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1707939789196" duration="3281000" />
       <workItem from="1707943089328" duration="657000" />
       <workItem from="1707949433177" duration="6715000" />
-      <workItem from="1708013479669" duration="7846000" />
+      <workItem from="1708013479669" duration="8161000" />
     </task>
     <servers />
   </component>
